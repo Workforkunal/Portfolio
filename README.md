@@ -2,8 +2,6 @@
 My Portfolio
 
 Hello! My name is Kunal Singh.
-I’m currently learning Kotlin Language.
-I am currently learning and working on Android apps.
-If anyone is looking at my portfolio then please check out my apps.
-then,
-Let's talk and work on an App.
+I am currently learning Kotlin language and I am currently working on Android apps. 
+If anyone is looking at my portfolio please do check out my apps. 
+So let's talk and work on an app. 
